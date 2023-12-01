@@ -1,7 +1,7 @@
 {
  "pokemons" : [
     {
-        "num": 1,
+        "num": "001",
         "img": "https://www.serebii.net/pokemon/art/001.png",
         "name": "Bulbasaur",
         "types": [
@@ -13,7 +13,7 @@
         "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon."
     },
     {
-        "num": 2,
+        "num": "002",
         "img": "https://www.serebii.net/pokemon/art/002.png",
         "name": "Ivysaur",
         "types": [
@@ -25,7 +25,7 @@
         "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
     },
     {
-        "num": 3,
+        "num": "003",
         "img": "https://www.serebii.net/pokemon/art/003.png",
         "name": "Venusaur",
         "types": [
@@ -37,7 +37,7 @@
         "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
     },
     {
-        "num": 4,
+        "num": "004",
         "img": "https://www.serebii.net/pokemon/art/004.png",
         "name": "Charmander",
         "types": [
@@ -48,7 +48,7 @@
         "description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
     },
     {
-        "num": 5,
+        "num": "005",
         "img": "https://www.serebii.net/pokemon/art/005.png",
         "name": "Charmeleon",
         "types": [
@@ -59,7 +59,7 @@
         "description": "When it swings its burning tail, it elevates the temperature to unbearably high levels."
     },
     {
-        "num": 6,
+        "num": "006",
         "img": "https://www.serebii.net/pokemon/art/006.png",
         "name": "Charizard",
         "types": [
@@ -71,7 +71,7 @@
         "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
     },
     {
-        "num": 7,
+        "num": "007",
         "img": "https://www.serebii.net/pokemon/art/007.png",
         "name": "Squirtle",
         "types": [
@@ -82,7 +82,7 @@
         "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth."
     },
     {
-        "num": 8,
+        "num": "008",
         "img": "https://www.serebii.net/pokemon/art/008.png",
         "name": "Wartortle",
         "types": [
@@ -93,7 +93,7 @@
         "description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance."
     },
     {
-        "num": 9,
+        "num": "009",
         "img": "https://www.serebii.net/pokemon/art/009.png",
         "name": "Blastoise",
         "types": [
@@ -104,7 +104,7 @@
         "description": "A brutal Pokémon with pressurized water jets on its shell. They are used for high-speed tackles."
     },
     {
-        "num": 10,
+        "num": "0010",
         "img": "https://www.serebii.net/pokemon/art/010.png",
         "name": "Caterpie",
         "types": [
@@ -115,7 +115,7 @@
         "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
     },
     {
-        "num": 11,
+        "num": "011",
         "img": "https://www.serebii.net/pokemon/art/011.png",
         "name": "Metapod",
         "types": [
@@ -126,7 +126,7 @@
         "description": "The shell covering this Pokémon’s body is as hard as an iron slab. Metapod does not move very much."
     },
     {
-        "num": 12,
+        "num": "012",
         "img": "https://www.serebii.net/pokemon/art/012.png",
         "name": "Butterfree",
         "types": [
@@ -138,7 +138,7 @@
         "description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air."
     },
     {
-        "num": 13,
+        "num": "013",
         "img": "https://www.serebii.net/pokemon/art/013.png",
         "name": "Weedle",
         "types": [
@@ -150,7 +150,7 @@
         "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head."
     },
     {
-        "num": 14,
+        "num": "014",
         "img": "https://www.serebii.net/pokemon/art/014.png",
         "name": "Kakuna",
         "types": [
@@ -162,7 +162,7 @@
         "description": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators."
     },
     {
-        "num": 15,
+        "num": "015",
         "img": "https://www.serebii.net/pokemon/art/015.png",
         "name": "Beedrill",
         "types": [
@@ -174,7 +174,7 @@
         "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail."
     },
     {
-        "num": 16,
+        "num": "016",
         "img": "https://www.serebii.net/pokemon/art/016.png",
         "name": "Pidgey",
         "types": [
@@ -186,7 +186,7 @@
         "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
     },
     {
-        "num": 17,
+        "num": "017",
         "img": "https://www.serebii.net/pokemon/art/017.png",
         "name": "Pidgeotto",
         "types": [
@@ -198,7 +198,7 @@
         "description": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey."
     },
     {
-        "num": 18,
+        "num": "018",
         "img": "https://www.serebii.net/pokemon/art/018.png",
         "name": "Pidgeot",
         "types": [
@@ -210,7 +210,7 @@
         "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp."
     },
     {
-        "num": 19,
+        "num": "019",
         "img": "https://www.serebii.net/pokemon/art/019.png",
         "name": "Rattata",
         "types": [
@@ -221,7 +221,7 @@
         "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
     },
     {
-        "num": 20,
+        "num": "020",
         "img": "https://www.serebii.net/pokemon/art/020.png",
         "name": "Raticate",
         "types": [
@@ -232,7 +232,7 @@
         "description": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey."
     },
     {
-        "num": 21,
+        "num": "021",
         "img": "https://www.serebii.net/pokemon/art/021.png",
         "name": "Spearow",
         "types": [
@@ -244,7 +244,7 @@
         "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
     },
     {
-        "num": 22,
+        "num": "022",
         "img": "https://www.serebii.net/pokemon/art/022.png",
         "name": "Fearow",
         "types": [
@@ -256,7 +256,7 @@
         "description": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest."
     },
     {
-        "num": 23,
+        "num": "023",
         "img": "https://www.serebii.net/pokemon/art/023.png",
         "name": "Ekans",
         "types": [
@@ -267,7 +267,7 @@
         "description": "Moves silently and stealthily. Eats the eggs of birds, such as Pidgey and Spearow, whole."
     },
     {
-        "num": 24,
+        "num": "024",
         "img": "https://www.serebii.net/pokemon/art/024.png",
         "name": "Arbok",
         "types": [
@@ -278,7 +278,7 @@
         "description": "The frightening patterns on its belly have been studied. Six variations have been confirmed."
     },
     {
-        "num": 25,
+        "num": "025",
         "img": "https://www.serebii.net/pokemon/art/025.png",
         "name": "Pikachu",
         "types": [
@@ -289,7 +289,7 @@
         "description": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose."
     },
     {
-        "num": 26,
+        "num": "026",
         "img": "https://www.serebii.net/pokemon/art/026.png",
         "name": "Raichu",
         "types": [
@@ -300,7 +300,7 @@
         "description": "Its long tail serves as a ground to protect itself from its own high-voltage power."
     },
     {
-        "num": 27,
+        "num": "027",
         "img": "https://www.serebii.net/pokemon/art/027.png",
         "name": "Sandshrew",
         "types": [
@@ -311,7 +311,7 @@
         "description": "It lives in areas of limited rainfall. When danger approaches, it curls up into a ball to protect itself from foes."
     },
     {
-        "num": 28,
+        "num": "028",
         "img": "https://www.serebii.net/pokemon/art/028.png",
         "name": "Sandslash",
         "types": [
@@ -322,7 +322,7 @@
         "description": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day."
     },
     {
-        "num": 29,
+        "num": "029",
         "img": "https://www.serebii.net/pokemon/art/029.png",
         "name": "Nidoran♀",
         "types": [
@@ -333,7 +333,7 @@
         "description": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns."
     },
     {
-        "num": 30,
+        "num": "030",
         "img": "https://www.serebii.net/pokemon/art/030.png",
         "name": "Nidorina",
         "types": [
@@ -344,7 +344,7 @@
         "description": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting."
     },
     {
-        "num": 31,
+        "num": "031",
         "img": "https://www.serebii.net/pokemon/art/031.png",
         "name": "Nidoqueen",
         "types": [
@@ -356,7 +356,7 @@
         "description": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves."
     },
     {
-        "num": 32,
+        "num": "032",
         "img": "https://www.serebii.net/pokemon/art/032.png",
         "name": "Nidoran♂",
         "types": [
@@ -367,7 +367,7 @@
         "description": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom."
     },
     {
-        "num": 33,
+        "num": "033",
         "img": "https://www.serebii.net/pokemon/art/033.png",
         "name": "Nidorino",
         "types": [
@@ -378,7 +378,7 @@
         "description": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom."
     },
     {
-        "num": 34,
+        "num": "034",
         "img": "https://www.serebii.net/pokemon/art/034.png",
         "name": "Nidoking",
         "types": [
@@ -390,7 +390,7 @@
         "description": "It uses its powerful tail in battle to smash, constrict, then break the prey’s bones."
     },
     {
-        "num": 35,
+        "num": "035",
         "img": "https://www.serebii.net/pokemon/art/035.png",
         "name": "Clefairy",
         "types": [
@@ -401,7 +401,7 @@
         "description": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas."
     },
     {
-        "num": 36,
+        "num": "036",
         "img": "https://www.serebii.net/pokemon/art/036.png",
         "name": "Clefable",
         "types": [
@@ -412,7 +412,7 @@
         "description": "A timid fairy Pokémon that is rarely seen. It will run and hide the moment it senses people."
     },
     {
-        "num": 37,
+        "num": "037",
         "img": "https://www.serebii.net/pokemon/art/037.png",
         "name": "Vulpix",
         "types": [
@@ -423,7 +423,7 @@
         "description": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly."
     },
     {
-        "num": 38,
+        "num": "038",
         "img": "https://www.serebii.net/pokemon/art/038.png",
         "name": "Ninetales",
         "types": [
@@ -434,7 +434,7 @@
         "description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse."
     },
     {
-        "num": 39,
+        "num": "039",
         "img": "https://www.serebii.net/pokemon/art/039.png",
         "name": "Jigglypuff",
         "types": [
@@ -446,7 +446,7 @@
         "description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep."
     },
     {
-        "num": 40,
+        "num": "040",
         "img": "https://www.serebii.net/pokemon/art/040.png",
         "name": "Wigglytuff",
         "types": [
@@ -458,7 +458,7 @@
         "description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
     },
     {
-        "num": 41,
+        "num": "041",
         "img": "https://www.serebii.net/pokemon/art/041.png",
         "name": "Zubat",
         "types": [
@@ -470,7 +470,7 @@
         "description": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets."
     },
     {
-        "num": 42,
+        "num": "042",
         "img": "https://www.serebii.net/pokemon/art/042.png",
         "name": "Golbat",
         "types": [
@@ -482,7 +482,7 @@
         "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly."
     },
     {
-        "num": 43,
+        "num": "043",
         "img": "https://www.serebii.net/pokemon/art/043.png",
         "name": "Oddish",
         "types": [
@@ -494,7 +494,7 @@
         "description": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
     },
     {
-        "num": 44,
+        "num": "044",
         "img": "https://www.serebii.net/pokemon/art/044.png",
         "name": "Gloom",
         "types": [
@@ -506,7 +506,7 @@
         "description": "The smell from its drool-like syrup and the pollen on its petals is so bad, it may make opponents faint."
     },
     {
-        "num": 45,
+        "num": "045",
         "img": "https://www.serebii.net/pokemon/art/045.png",
         "name": "Vileplume",
         "types": [
@@ -518,7 +518,7 @@
         "description": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
     },
     {
-        "num": 46,
+        "num": "046",
         "img": "https://www.serebii.net/pokemon/art/046.png",
         "name": "Paras",
         "types": [
@@ -530,7 +530,7 @@
         "description": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host."
     },
     {
-        "num": 47,
+        "num": "047",
         "img": "https://www.serebii.net/pokemon/art/047.png",
         "name": "Parasect",
         "types": [
@@ -542,7 +542,7 @@
         "description": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places."
     },
     {
-        "num": 48,
+        "num": "048",
         "img": "https://www.serebii.net/pokemon/art/048.png",
         "name": "Venonat",
         "types": [
@@ -554,7 +554,7 @@
         "description": "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night."
     },
     {
-        "num": 49,
+        "num": "049",
         "img": "https://www.serebii.net/pokemon/art/049.png",
         "name": "Venomoth",
         "types": [
@@ -566,7 +566,7 @@
         "description": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has."
     },
     {
-        "num": 50,
+        "num": "050",
         "img": "https://www.serebii.net/pokemon/art/050.png",
         "name": "Diglett",
         "types": [
@@ -577,7 +577,7 @@
         "description": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot."
     },
     {
-        "num": 51,
+        "num": "051",
         "img": "https://www.serebii.net/pokemon/art/051.png",
         "name": "Dugtrio",
         "types": [
@@ -588,7 +588,7 @@
         "description": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground."
     },
     {
-        "num": 52,
+        "num": "052",
         "img": "https://www.serebii.net/pokemon/art/052.png",
         "name": "Meowth",
         "types": [
@@ -599,7 +599,7 @@
         "description": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change."
     },
     {
-        "num": 53,
+        "num": "053",
         "img": "https://www.serebii.net/pokemon/art/053.png",
         "name": "Persian",
         "types": [
@@ -610,7 +610,7 @@
         "description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
     },
     {
-        "num": 54,
+        "num": "054",
         "img": "https://www.serebii.net/pokemon/art/054.png",
         "name": "Psyduck",
         "types": [
@@ -621,7 +621,7 @@
         "description": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers."
     },
     {
-        "num": 55,
+        "num": "055",
         "img": "https://www.serebii.net/pokemon/art/055.png",
         "name": "Golduck",
         "types": [
@@ -632,7 +632,7 @@
         "description": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster Kappa."
     },
     {
-        "num": 56,
+        "num": "056",
         "img": "https://www.serebii.net/pokemon/art/056.png",
         "name": "Mankey",
         "types": [
@@ -643,7 +643,7 @@
         "description": "Extremely quick to anger. It could be docile one moment, then thrashing away the next instant."
     },
     {
-        "num": 57,
+        "num": "057",
         "img": "https://www.serebii.net/pokemon/art/057.png",
         "name": "Primeape",
         "types": [
@@ -654,7 +654,7 @@
         "description": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it catches up."
     },
     {
-        "num": 58,
+        "num": "058",
         "img": "https://www.serebii.net/pokemon/art/058.png",
         "name": "Growlithe",
         "types": [
@@ -665,7 +665,7 @@
         "description": "Very protective of its territory. It will bark and bite to repel intruders from its space."
     },
     {
-        "num": 59,
+        "num": "059",
         "img": "https://www.serebii.net/pokemon/art/059.png",
         "name": "Arcanine",
         "types": [
@@ -676,7 +676,7 @@
         "description": "A Pokémon that is described in Chinese legends. It is said to race across the land as it protects the weak and upholds justice."
     },
     {
-        "num": 60,
+        "num": "060",
         "img": "https://www.serebii.net/pokemon/art/060.png",
         "name": "Poliwag",
         "types": [
@@ -687,7 +687,7 @@
         "description": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand."
     },
     {
-        "num": 61,
+        "num": "061",
         "img": "https://www.serebii.net/pokemon/art/061.png",
         "name": "Poliwhirl",
         "types": [
@@ -698,7 +698,7 @@
         "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy."
     },
     {
-        "num": 62,
+        "num": "062",
         "img": "https://www.serebii.net/pokemon/art/062.png",
         "name": "Poliwrath",
         "types": [
@@ -710,7 +710,7 @@
         "description": "An adept swimmer at both the front crawl and breaststroke. Easily overtakes the best human swimmers."
     },
     {
-        "num": 63,
+        "num": "063",
         "img": "https://www.serebii.net/pokemon/art/063.png",
         "name": "Abra",
         "types": [
@@ -721,7 +721,7 @@
         "description": "Using its ability to read minds, it will identify impending danger and teleport to safety."
     },
     {
-        "num": 64,
+        "num": "064",
         "img": "https://www.serebii.net/pokemon/art/064.png",
         "name": "Kadabra",
         "types": [
@@ -732,7 +732,7 @@
         "description": "It emits special alpha waves from its body that induce headaches just by being close by."
     },
     {
-        "num": 65,
+        "num": "065",
         "img": "https://www.serebii.net/pokemon/art/065.png",
         "name": "Alakazam",
         "types": [
@@ -743,7 +743,7 @@
         "description": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000."
     },
     {
-        "num": 66,
+        "num": "066",
         "img": "https://www.serebii.net/pokemon/art/066.png",
         "name": "Machop",
         "types": [
@@ -754,7 +754,7 @@
         "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
     },
     {
-        "num": 67,
+        "num": "067",
         "img": "https://www.serebii.net/pokemon/art/067.png",
         "name": "Machoke",
         "types": [
@@ -765,7 +765,7 @@
         "description": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions."
     },
     {
-        "num": 68,
+        "num": "068",
         "img": "https://www.serebii.net/pokemon/art/068.png",
         "name": "Machamp",
         "types": [
@@ -776,7 +776,7 @@
         "description": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon."
     },
     {
-        "num": 69,
+        "num": "069",
         "img": "https://www.serebii.net/pokemon/art/069.png",
         "name": "Bellsprout",
         "types": [
@@ -788,7 +788,7 @@
         "description": "A carnivorous Pokémon that traps and eats bugs. It appears to use its root feet to replenish moisture."
     },
     {
-        "num": 70,
+        "num": "070",
         "img": "https://www.serebii.net/pokemon/art/070.png",
         "name": "Weepinbell",
         "types": [
@@ -800,7 +800,7 @@
         "description": "When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids."
     },
     {
-        "num": 71,
+        "num": "071",
         "img": "https://www.serebii.net/pokemon/art/071.png",
         "name": "Victreebel",
         "types": [
@@ -812,7 +812,7 @@
         "description": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is melted in a day, bones and all."
     },
     {
-        "num": 72,
+        "num": "072",
         "img": "https://www.serebii.net/pokemon/art/072.png",
         "name": "Tentacool",
         "types": [
@@ -824,7 +824,7 @@
         "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid."
     },
     {
-        "num": 73,
+        "num": "073",
         "img": "https://www.serebii.net/pokemon/art/073.png",
         "name": "Tentacruel",
         "types": [
@@ -836,7 +836,7 @@
         "description": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey."
     },
     {
-        "num": 74,
+        "num": "074",
         "img": "https://www.serebii.net/pokemon/art/074.png",
         "name": "Geodude",
         "types": [
@@ -848,7 +848,7 @@
         "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them."
     },
     {
-        "num": 75,
+        "num": "075",
         "img": "https://www.serebii.net/pokemon/art/075.png",
         "name": "Graveler",
         "types": [
@@ -860,7 +860,7 @@
         "description": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
     },
     {
-        "num": 76,
+        "num": "076",
         "img": "https://www.serebii.net/pokemon/art/076.png",
         "name": "Golem",
         "types": [
@@ -872,7 +872,7 @@
         "description": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without taking damage."
     },
     {
-        "num": 77,
+        "num": "077",
         "img": "https://www.serebii.net/pokemon/art/077.png",
         "name": "Ponyta",
         "types": [
@@ -883,7 +883,7 @@
         "description": "Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing."
     },
     {
-        "num": 78,
+        "num": "078",
         "img": "https://www.serebii.net/pokemon/art/078.png",
         "name": "Rapidash",
         "types": [
@@ -894,7 +894,7 @@
         "description": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it."
     },
     {
-        "num": 79,
+        "num": "079",
         "img": "https://www.serebii.net/pokemon/art/079.png",
         "name": "Slowpoke",
         "types": [
@@ -906,7 +906,7 @@
         "description": "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time."
     },
     {
-        "num": 80,
+        "num": "080",
         "img": "https://www.serebii.net/pokemon/art/080.png",
         "name": "Slowbro",
         "types": [
@@ -918,7 +918,7 @@
         "description": "The Shellder that latches onto Slowpoke’s tail is said to feed on the host’s leftover scraps."
     },
     {
-        "num": 81,
+        "num": "081",
         "img": "https://www.serebii.net/pokemon/art/081.png",
         "name": "Magnemite",
         "types": [
@@ -930,7 +930,7 @@
         "description": "Uses antigravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves."
     },
     {
-        "num": 82,
+        "num": "082",
         "img": "https://www.serebii.net/pokemon/art/082.png",
         "name": "Magneton",
         "types": [
@@ -942,7 +942,7 @@
         "description": "Formed by several Magnemite linked together. They frequently appear when sunspots flare up."
     },
     {
-        "num": 83,
+        "num": "083",
         "img": "https://www.serebii.net/pokemon/art/083.png",
         "name": "Farfetch'd",
         "types": [
@@ -954,7 +954,7 @@
         "description": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things."
     },
     {
-        "num": 84,
+        "num": "084",
         "img": "https://www.serebii.net/pokemon/art/084.png",
         "name": "Doduo",
         "types": [
@@ -966,7 +966,7 @@
         "description": "A two-headed Pokémon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour."
     },
     {
-        "num": 85,
+        "num": "085",
         "img": "https://www.serebii.net/pokemon/art/085.png",
         "name": "Dodrio",
         "types": [
@@ -978,7 +978,7 @@
         "description": "An odd species that is rarely found. The three heads respectively represent joy, sorrow, and anger."
     },
     {
-        "num": 86,
+        "num": "086",
         "img": "https://www.serebii.net/pokemon/art/086.png",
         "name": "Seel",
         "types": [
@@ -989,7 +989,7 @@
         "description": "The protruding horn on its head is very hard. It is used for bashing through thick ice."
     },
     {
-        "num": 87,
+        "num": "087",
         "img": "https://www.serebii.net/pokemon/art/087.png",
         "name": "Dewgong",
         "types": [
@@ -1001,7 +1001,7 @@
         "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters."
     },
     {
-        "num": 88,
+        "num": "088",
         "img": "https://www.serebii.net/pokemon/art/088.png",
         "name": "Grimer",
         "types": [
@@ -1012,7 +1012,7 @@
         "description": "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories."
     },
     {
-        "num": 89,
+        "num": "089",
         "img": "https://www.serebii.net/pokemon/art/089.png",
         "name": "Muk",
         "types": [
@@ -1023,7 +1023,7 @@
         "description": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell."
     },
     {
-        "num": 90,
+        "num": "090",
         "img": "https://www.serebii.net/pokemon/art/090.png",
         "name": "Shellder",
         "types": [
@@ -1034,7 +1034,7 @@
         "description": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
     },
     {
-        "num": 91,
+        "num": "091",
         "img": "https://www.serebii.net/pokemon/art/091.png",
         "name": "Cloyster",
         "types": [
@@ -1046,7 +1046,7 @@
         "description": "For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell."
     },
     {
-        "num": 92,
+        "num": "092",
         "img": "https://www.serebii.net/pokemon/art/092.png",
         "name": "Gastly",
         "types": [
@@ -1058,7 +1058,7 @@
         "description": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison."
     },
     {
-        "num": 93,
+        "num": "093",
         "img": "https://www.serebii.net/pokemon/art/093.png",
         "name": "Haunter",
         "types": [
@@ -1070,7 +1070,7 @@
         "description": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise."
     },
     {
-        "num": 94,
+        "num": "094",
         "img": "https://www.serebii.net/pokemon/art/094.png",
         "name": "Gengar",
         "types": [
@@ -1082,7 +1082,7 @@
         "description": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright."
     },
     {
-        "num": 95,
+        "num": "095",
         "img": "https://www.serebii.net/pokemon/art/095.png",
         "name": "Onix",
         "types": [
@@ -1094,7 +1094,7 @@
         "description": "As it grows, the stone portions of its body harden to become similar to black-colored diamonds."
     },
     {
-        "num": 96,
+        "num": "096",
         "img": "https://www.serebii.net/pokemon/art/096.png",
         "name": "Drowzee",
         "types": [
@@ -1105,7 +1105,7 @@
         "description": "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating bad dreams."
     },
     {
-        "num": 97,
+        "num": "097",
         "img": "https://www.serebii.net/pokemon/art/097.png",
         "name": "Hypno",
         "types": [
@@ -1116,7 +1116,7 @@
         "description": "When it locks eyes with an enemy, it will use a mix of PSI moves such as Hypnosis and Confusion."
     },
     {
-        "num": 98,
+        "num": "098",
         "img": "https://www.serebii.net/pokemon/art/098.png",
         "name": "Krabby",
         "types": [
@@ -1127,7 +1127,7 @@
         "description": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast."
     },
     {
-        "num": 99,
+        "num": "099",
         "img": "https://www.serebii.net/pokemon/art/099.png",
         "name": "Kingler",
         "types": [
@@ -1138,7 +1138,7 @@
         "description": "The larger pincer has 10,000-horsepower crushing force. However, its huge size makes it unwieldy to use."
     },
     {
-        "num": 100,
+        "num": "100",
         "img": "https://www.serebii.net/pokemon/art/100.png",
         "name": "Voltorb",
         "types": [
@@ -1149,7 +1149,7 @@
         "description": "Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people."
     },
     {
-        "num": 101,
+        "num": "101",
         "img": "https://www.serebii.net/pokemon/art/101.png",
         "name": "Electrode",
         "types": [
@@ -1160,7 +1160,7 @@
         "description": "It stores electric energy under very high pressure. It often explodes with little or no provocation."
     },
     {
-        "num": 102,
+        "num": "102",
         "img": "https://www.serebii.net/pokemon/art/102.png",
         "name": "Exeggcute",
         "types": [
@@ -1172,7 +1172,7 @@
         "description": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
     },
     {
-        "num": 103,
+        "num": "103",
         "img": "https://www.serebii.net/pokemon/art/103.png",
         "name": "Exeggutor",
         "types": [
@@ -1184,7 +1184,7 @@
         "description": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute."
     },
     {
-        "num": 104,
+        "num": "104",
         "img": "https://www.serebii.net/pokemon/art/104.png",
         "name": "Cubone",
         "types": [
@@ -1195,7 +1195,7 @@
         "description": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody."
     },
     {
-        "num": 105,
+        "num": "105",
         "img": "https://www.serebii.net/pokemon/art/105.png",
         "name": "Marowak",
         "types": [
@@ -1206,7 +1206,7 @@
         "description": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets."
     },
     {
-        "num": 106,
+        "num": "106",
         "img": "https://www.serebii.net/pokemon/art/106.png",
         "name": "Hitmonlee",
         "types": [
@@ -1217,7 +1217,7 @@
         "description": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy."
     },
     {
-        "num": 107,
+        "num": "107",
         "img": "https://www.serebii.net/pokemon/art/107.png",
         "name": "Hitmonchan",
         "types": [
@@ -1228,7 +1228,7 @@
         "description": "While apparently doing nothing, it fires punches in lightning-fast volleys that are impossible to see."
     },
     {
-        "num": 108,
+        "num": "108",
         "img": "https://www.serebii.net/pokemon/art/108.png",
         "name": "Lickitung",
         "types": [
@@ -1239,7 +1239,7 @@
         "description": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis."
     },
     {
-        "num": 109,
+        "num": "109",
         "img": "https://www.serebii.net/pokemon/art/109.png",
         "name": "Koffing",
         "types": [
@@ -1250,7 +1250,7 @@
         "description": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
     },
     {
-        "num": 110,
+        "num": "110",
         "img": "https://www.serebii.net/pokemon/art/110.png",
         "name": "Weezing",
         "types": [
@@ -1261,7 +1261,7 @@
         "description": "It lives and grows by absorbing dust, germs, and poison gases that are contained in toxic waste and garbage."
     },
     {
-        "num": 111,
+        "num": "111",
         "img": "https://www.serebii.net/pokemon/art/111.png",
         "name": "Rhyhorn",
         "types": [
@@ -1273,7 +1273,7 @@
         "description": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying."
     },
     {
-        "num": 112,
+        "num": "112",
         "img": "https://www.serebii.net/pokemon/art/112.png",
         "name": "Rhydon",
         "types": [
@@ -1285,7 +1285,7 @@
         "description": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit."
     },
     {
-        "num": 113,
+        "num": "113",
         "img": "https://www.serebii.net/pokemon/art/113.png",
         "name": "Chansey",
         "types": [
@@ -1296,7 +1296,7 @@
         "description": "A rare and elusive Pokémon that is said to bring happiness to those who manage to catch it."
     },
     {
-        "num": 114,
+        "num": "114",
         "img": "https://www.serebii.net/pokemon/art/114.png",
         "name": "Tangela",
         "types": [
@@ -1307,7 +1307,7 @@
         "description": "Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing."
     },
     {
-        "num": 115,
+        "num": "115",
         "img": "https://www.serebii.net/pokemon/art/115.png",
         "name": "Kangaskhan",
         "types": [
@@ -1318,7 +1318,7 @@
         "description": "It raises its young in its belly pouch. It has a violent disposition and will mercilessly strike anyone that approaches its young."
     },
     {
-        "num": 116,
+        "num": "116",
         "img": "https://www.serebii.net/pokemon/art/116.png",
         "name": "Horsea",
         "types": [
@@ -1329,7 +1329,7 @@
         "description": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
     },
     {
-        "num": 117,
+        "num": "117",
         "img": "https://www.serebii.net/pokemon/art/117.png",
         "name": "Seadra",
         "types": [
@@ -1340,7 +1340,7 @@
         "description": "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail."
     },
     {
-        "num": 118,
+        "num": "118",
         "img": "https://www.serebii.net/pokemon/art/118.png",
         "name": "Goldeen",
         "types": [
@@ -1351,7 +1351,7 @@
         "description": "Its dorsal, pecto, and tail fins wave elegantly in water. That is why it is known as the water dancer."
     },
     {
-        "num": 119,
+        "num": "119",
         "img": "https://www.serebii.net/pokemon/art/119.png",
         "name": "Seaking",
         "types": [
@@ -1362,7 +1362,7 @@
         "description": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks."
     },
     {
-        "num": 120,
+        "num": "120",
         "img": "https://www.serebii.net/pokemon/art/120.png",
         "name": "Staryu",
         "types": [
@@ -1373,7 +1373,7 @@
         "description": "As long as the center section is unharmed, it can grow back fully even if it is chopped to bits."
     },
     {
-        "num": 121,
+        "num": "121",
         "img": "https://www.serebii.net/pokemon/art/121.png",
         "name": "Starmie",
         "types": [
@@ -1385,7 +1385,7 @@
         "description": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
     },
     {
-        "num": 122,
+        "num": "122",
         "img": "https://www.serebii.net/pokemon/art/122.png",
         "name": "Mr. Mime",
         "types": [
@@ -1397,7 +1397,7 @@
         "description": "If interrupted while it is miming, it will slap around the offender with its broad hands."
     },
     {
-        "num": 123,
+        "num": "123",
         "img": "https://www.serebii.net/pokemon/art/123.png",
         "name": "Scyther",
         "types": [
@@ -1409,7 +1409,7 @@
         "description": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja."
     },
     {
-        "num": 124,
+        "num": "124",
         "img": "https://www.serebii.net/pokemon/art/124.png",
         "name": "Jynx",
         "types": [
@@ -1421,7 +1421,7 @@
         "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
     },
     {
-        "num": 125,
+        "num": "125",
         "img": "https://www.serebii.net/pokemon/art/125.png",
         "name": "Electabuzz",
         "types": [
@@ -1432,7 +1432,7 @@
         "description": "Normally found near power plants, it can wander away and cause major blackouts in cities."
     },
     {
-        "num": 126,
+        "num": "126",
         "img": "https://www.serebii.net/pokemon/art/126.png",
         "name": "Magmar",
         "types": [
@@ -1443,7 +1443,7 @@
         "description": "Its body always burns with an orange glow that enables it to hide perfectly among flames."
     },
     {
-        "num": 127,
+        "num": "127",
         "img": "https://www.serebii.net/pokemon/art/127.png",
         "name": "Pinsir",
         "types": [
@@ -1454,7 +1454,7 @@
         "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard."
     },
     {
-        "num": 128,
+        "num": "128",
         "img": "https://www.serebii.net/pokemon/art/128.png",
         "name": "Tauros",
         "types": [
@@ -1465,7 +1465,7 @@
         "description": "When it targets an enemy, it charges furiously while whipping its body with its long tails."
     },
     {
-        "num": 129,
+        "num": "129",
         "img": "https://www.serebii.net/pokemon/art/129.png",
         "name": "Magikarp",
         "types": [
@@ -1476,7 +1476,7 @@
         "description": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world."
     },
     {
-        "num": 130,
+        "num": "130",
         "img": "https://www.serebii.net/pokemon/art/130.png",
         "name": "Gyarados",
         "types": [
@@ -1488,7 +1488,7 @@
         "description": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
     },
     {
-        "num": 131,
+        "num": "131",
         "img": "https://www.serebii.net/pokemon/art/131.png",
         "name": "Lapras",
         "types": [
@@ -1500,7 +1500,7 @@
         "description": "A gentle soul that can understand human speech. It can ferry people across the sea on its back."
     },
     {
-        "num": 132,
+        "num": "132",
         "img": "https://www.serebii.net/pokemon/art/132.png",
         "name": "Ditto",
         "types": [
@@ -1511,7 +1511,7 @@
         "description": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy."
     },
     {
-        "num": 133,
+        "num": "133",
         "img": "https://www.serebii.net/pokemon/art/133.png",
         "name": "Eevee",
         "types": [
@@ -1522,7 +1522,7 @@
         "description": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element Stones."
     },
     {
-        "num": 134,
+        "num": "134",
         "img": "https://www.serebii.net/pokemon/art/134.png",
         "name": "Vaporeon",
         "types": [
@@ -1533,7 +1533,7 @@
         "description": "Lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid’s."
     },
     {
-        "num": 135,
+        "num": "135",
         "img": "https://www.serebii.net/pokemon/art/135.png",
         "name": "Jolteon",
         "types": [
@@ -1544,7 +1544,7 @@
         "description": "Every hair on its body starts to stand sharply on end if it becomes charged with electricity."
     },
     {
-        "num": 136,
+        "num": "136",
         "img": "https://www.serebii.net/pokemon/art/136.png",
         "name": "Flareon",
         "types": [
@@ -1555,7 +1555,7 @@
         "description": "It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,100 degrees Fahrenheit."
     },
     {
-        "num": 137,
+        "num": "137",
         "img": "https://www.serebii.net/pokemon/art/137.png",
         "name": "Porygon",
         "types": [
@@ -1566,7 +1566,7 @@
         "description": "A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace."
     },
     {
-        "num": 138,
+        "num": "138",
         "img": "https://www.serebii.net/pokemon/art/138.png",
         "name": "Omanyte",
         "types": [
@@ -1578,7 +1578,7 @@
         "description": "An ancient Pokémon that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about."
     },
     {
-        "num": 139,
+        "num": "139",
         "img": "https://www.serebii.net/pokemon/art/139.png",
         "name": "Omastar",
         "types": [
@@ -1590,7 +1590,7 @@
         "description": "A prehistoric Pokémon that died out when its heavy shell made it impossible to catch prey."
     },
     {
-        "num": 140,
+        "num": "140",
         "img": "https://www.serebii.net/pokemon/art/140.png",
         "name": "Kabuto",
         "types": [
@@ -1602,7 +1602,7 @@
         "description": "A Pokémon that was resurrected from a fossil. It swam skillfully and dove to hunt for its prey."
     },
     {
-        "num": 141,
+        "num": "141",
         "img": "https://www.serebii.net/pokemon/art/141.png",
         "name": "Kabutops",
         "types": [
@@ -1614,7 +1614,7 @@
         "description": "A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids."
     },
     {
-        "num": 142,
+        "num": "142",
         "img": "https://www.serebii.net/pokemon/art/142.png",
         "name": "Aerodactyl",
         "types": [
@@ -1626,7 +1626,7 @@
         "description": "A ferocious, prehistoric Pokémon that goes for the enemy's throat with its serrated saw-like fangs."
     },
     {
-        "num": 143,
+        "num": "143",
         "img": "https://www.serebii.net/pokemon/art/143.png",
         "name": "Snorlax",
         "types": [
@@ -1637,7 +1637,7 @@
         "description": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful."
     },
     {
-        "num": 144,
+        "num": "144",
         "img": "https://www.serebii.net/pokemon/art/144.png",
         "name": "Articuno",
         "types": [
@@ -1649,7 +1649,7 @@
         "description": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow."
     },
     {
-        "num": 145,
+        "num": "145",
         "img": "https://www.serebii.net/pokemon/art/145.png",
         "name": "Zapdos",
         "types": [
@@ -1661,7 +1661,7 @@
         "description": "A legendary bird Pokémon. It is said to appear when the sky turns dark and lightning showers down."
     },
     {
-        "num": 146,
+        "num": "146",
         "img": "https://www.serebii.net/pokemon/art/146.png",
         "name": "Moltres",
         "types": [
@@ -1673,7 +1673,7 @@
         "description": "A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red."
     },
     {
-        "num": 147,
+        "num": "147",
         "img": "https://www.serebii.net/pokemon/art/147.png",
         "name": "Dratini",
         "types": [
@@ -1684,7 +1684,7 @@
         "description": "Long considered a mythical Pokémon until recently when a small colony was found living underwater."
     },
     {
-        "num": 148,
+        "num": "148",
         "img": "https://www.serebii.net/pokemon/art/148.png",
         "name": "Dragonair",
         "types": [
@@ -1695,7 +1695,7 @@
         "description": "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions."
     },
     {
-        "num": 149,
+        "num": "149",
         "img": "https://www.serebii.net/pokemon/art/149.png",
         "name": "Dragonite",
         "types": [
@@ -1707,7 +1707,7 @@
         "description": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, it is only a rumor."
     },
     {
-        "num": 150,
+        "num": "150",
         "img": "https://www.serebii.net/pokemon/art/150.png",
         "name": "Mewtwo",
         "types": [
@@ -1718,7 +1718,7 @@
         "description": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon."
     },
     {
-        "num": 151,
+        "num": "151",
         "img": "https://www.serebii.net/pokemon/art/151.png",
         "name": "Mew",
         "types": [
@@ -1728,5 +1728,5 @@
         "weight": "4.0 kg",
         "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
     }
-  ]
+]
 }
